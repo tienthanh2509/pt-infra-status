@@ -1,7 +1,7 @@
 url: https://chat.tdmu.edu.vn
-status: up
-code: 200
-responseTime: 2802
-lastUpdated: 2022-07-26T23:18:06.468Z
+status: down
+code: 502
+responseTime: 14671
+lastUpdated: 2022-07-27T11:45:06.999Z
 startTime: Sun Jul 17 2022 17:47:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

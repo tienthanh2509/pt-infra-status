@@ -4,18 +4,19 @@
     "url": "https://elearning.tdmu.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/elearning.tdmu.edu.vn.ico",
     "slug": "tdmu-elearning",
-    "status": "up",
-    "uptime": "97.23%",
-    "uptimeDay": "91.22%",
-    "uptimeWeek": "86.56%",
+    "status": "down",
+    "uptime": "97.26%",
+    "uptimeDay": "91.21%",
+    "uptimeWeek": "86.59%",
     "uptimeMonth": "90.01%",
-    "uptimeYear": "97.23%",
+    "uptimeYear": "97.26%",
     "time": 2748,
     "timeDay": 2170,
     "timeWeek": 2358,
     "timeMonth": 2484,
     "timeYear": 2748,
     "dailyMinutesDown": {
+      "2023-06-13": 0,
       "2023-06-12": 126,
       "2023-06-11": 126,
       "2023-06-10": 126,
@@ -112,8 +113,7 @@
       "2023-02-26": 106,
       "2023-02-25": 112,
       "2023-02-24": 117,
-      "2023-02-23": 124,
-      "2023-02-22": 109
+      "2023-02-23": 124
     }
   },
   {

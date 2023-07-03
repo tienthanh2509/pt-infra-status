@@ -4,18 +4,19 @@
     "url": "https://elearning.tdmu.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/elearning.tdmu.edu.vn.ico",
     "slug": "tdmu-elearning",
-    "status": "up",
-    "uptime": "97.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.36%",
+    "status": "down",
+    "uptime": "97.47%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "93.41%",
     "uptimeMonth": "91.80%",
-    "uptimeYear": "97.45%",
+    "uptimeYear": "97.47%",
     "time": 2789,
     "timeDay": 2408,
     "timeWeek": 4443,
-    "timeMonth": 3099,
+    "timeMonth": 3112,
     "timeYear": 2789,
     "dailyMinutesDown": {
+      "2023-07-03": 0,
       "2023-07-01": 137,
       "2023-06-30": 132,
       "2023-06-29": 122,
@@ -112,8 +113,7 @@
       "2023-03-19": 116,
       "2023-03-18": 111,
       "2023-03-17": 108,
-      "2023-03-11": 113,
-      "2023-03-09": 117
+      "2023-03-11": 113
     }
   },
   {
@@ -130,7 +130,7 @@
     "time": 2077,
     "timeDay": 2730,
     "timeWeek": 2248,
-    "timeMonth": 2137,
+    "timeMonth": 2143,
     "timeYear": 2077,
     "dailyMinutesDown": {
       "2023-05-31": 15,
@@ -161,7 +161,7 @@
     "time": 2973,
     "timeDay": 2415,
     "timeWeek": 2299,
-    "timeMonth": 2436,
+    "timeMonth": 2435,
     "timeYear": 2973,
     "dailyMinutesDown": {
       "2023-05-31": 36,
@@ -198,7 +198,7 @@
     "time": 1948,
     "timeDay": 1986,
     "timeWeek": 1794,
-    "timeMonth": 1909,
+    "timeMonth": 1928,
     "timeYear": 1948,
     "dailyMinutesDown": {
       "2023-06-01": 99,
